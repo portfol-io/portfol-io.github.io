@@ -1290,13 +1290,13 @@ span.photo{
     display: inline-block;
     position: absolute;
     top: 75px;
-    left: 73px;
+    left: 63px;
     color: #fff;
     text-align: center;
-    font-size: 18px;
+    font-size: 17px;
     text-transform: uppercase;
     font-weight: bold;
-/*    letter-spacing: 1px;*/
+    /* letter-spacing: 1px; */
 }
 
 .fon_35 {
@@ -1314,4 +1314,8 @@ span.photo{
 
 .f35 {
     display: block;
+    width: 312px;
+    margin: 0 auto;
+    position: relative;
+    top: 10px;
 }
