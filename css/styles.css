@@ -1270,4 +1270,8 @@ Waypoints
     height: 100%;
 }
 
-
+span.photo{
+    color: #fff;
+    font-size: 2em;
+    
+}
