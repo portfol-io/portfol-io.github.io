@@ -1275,3 +1275,38 @@ span.photo{
     font-size: 2em;
     
 }
+
+.photo35 {
+    display: block;
+    width: 350px;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+    top: 10px;
+    z-index: 100000;
+}
+
+.text35 {
+    position: absolute;
+    top: 75px;
+    left: 73px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+/*    letter-spacing: 1px;*/
+}
+
+.fon_35 {
+    background-color: #0a4d71;
+    height: 220px;
+    
+}
+
+.text35 span{
+    font-size: 33px;
+    
+}
+
+
